@@ -71,21 +71,24 @@ nav ul li a:hover {
     font-size: 1.5rem;
 }
 
+.leftSection .btn a{
+    text-decoration: none;
+    color: white;
+}
+
 .leftSection .btn {
-    padding: 6px;
+    padding: 5px;
     background-color: #4955ce;
     color: white;
     border: 2px solid white;
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    font-weight: bold;
 }
 
 .leftSection .skills {
     font-size: 12px;
     font-weight: bold;
-
 }
 
 .leftSection .icons{
@@ -108,7 +111,7 @@ nav ul li a:hover {
 
 .text-gray {
     color: gray;
-    margin: -200px 0px;
+    /* margin: -200px 0px; */
 }
 
 #element {
@@ -216,10 +219,15 @@ nav ul li a:hover {
 .footer {
     display: flex;
     background-color: #240c3b;
-    ;
-    height: 350px;
+    height: 280px;
     margin: 5px 1px;
     justify-content: space-evenly;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    display: none;
 }
 
 .footerfirst h1 {
@@ -231,6 +239,7 @@ nav ul li a:hover {
 }
 
 footer .footer-rights {
+    background-color: #240c3b;
     text-align: center;
     color: gray;
     padding: 12px;
