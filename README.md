@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishir420-git" alt="shishir420-git" /></a> </p>
 
-- 🔭 I’m currently working in **Wipro**
-
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
-
 - 👨‍💻 All of my projects are available at [NA for now](NA for now)
 
 - 📝 I regularly write articles on [https://shishirslearningjourney.hashnode.dev/](https://shishirslearningjourney.hashnode.dev/)
