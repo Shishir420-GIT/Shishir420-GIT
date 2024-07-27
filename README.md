@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shishir</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A developer that Automates stuff and does DevOps from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishir420-git" alt="shishir420-git" /></a> </p>
 
