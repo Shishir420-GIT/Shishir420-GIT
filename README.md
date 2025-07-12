@@ -1,34 +1,238 @@
-<h1 align="center">Hi 👋, I'm Shishir</h1>
-<h3 align="center">A Software Developer (Python) with 4+ years of experience working in agile projects. I simplify complex tasks and believe that if it is structured, it can be automated. My keen interest in Generative AI and it’s capabilities has allowed me to build and even win prizes by presenting my knowledge/work at places. So let me ask you, what are we going to code and build next?</h3>
+<!-- Header with animated typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Shishir+Srivastav;Senior+Python+Developer+%7C+4%2B+Years;AI+Enthusiast+%7C+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishir420-git" alt="shishir420-git" /></a> </p>
+<!-- Professional Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shishir420-GIT](https://github.com/Shishir420-GIT)
+<!-- About Section with Icons -->
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+    <img src="https://img.shields.io/badge/Focus-Python%20%7C%20AI%20%7C%20Automation-blue?style=for-the-badge&logo=python&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Mindset-Agile%20%7C%20Problem%20Solver-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Mindset"/>
+  </p>
+</div>
 
-- 💬 Check out my youtube channel and learn about using AI with Python, lean by doing [Youtube](https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA)
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
-- 📄 Looking for short byte to learn? Join me on [Instagram](https://www.instagram.com/programmatic.ly)
+---
 
-- 📝 I regularly write articles on [Hashnode](https://shishirslearningjourney.hashnode.dev/)
+## 💫 What Drives Me
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shishir-srivastav/)
+```python
+class ShishirSrivastav:
+    def __init__(self):
+        self.role = "Senior Python Developer"
+        self.experience = "4+ years"
+        self.philosophy = "If it's structured, it can be automated"
+        self.passion = ["Generative AI", "Clean Code", "Problem Solving"]
+        self.current_focus = "Building AI-powered solutions"
+    
+    def daily_routine(self):
+        return [
+            "☕ Coffee + Code",
+            "🧠 Learn something new",
+            "🔧 Build & Automate",
+            "📚 Share knowledge",
+            "🎯 Solve complex problems"
+        ]
+    
+    def fun_fact(self):
+        return "Only my code has logic, not my conversations 😄"
+```
 
-- ⚡ Fun fact **Only my code has logic, not my conversations.**
+---
 
-- 📫 How to reach me: **shishir.workemail@gmail.com**
+## 🎯 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" gap=2>
-<a href="https://linkedin.com/in/shishir-srivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir-srivastav" height="30" width="40" /></a>
-<a href="https://instagram.com/@programmatic.ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@programmatic.ly" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shishirsrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shishirsrivastav" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/python.png" alt="Development"/>
+        <h3>🔧 Development</h3>
+        <p>Building robust Python applications with clean, maintainable code following agile methodologies</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI"/>
+        <h3>🤖 AI Innovation</h3>
+        <p>Exploring Generative AI capabilities and building intelligent solutions that make a difference</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/video.png" alt="Teaching"/>
+        <h3>📚 Knowledge Sharing</h3>
+        <p>Creating educational content on YouTube and Instagram to help others learn AI with Python</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" gap=2> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir420-git&show_icons=true&locale=en&layout=compact" alt="shishir420-git" /></p>
+## 🛠️ Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir420-git&show_icons=true&locale=en" alt="shishir420-git" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishir420-git&" alt="shishir420-git" /></p>
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shishir420-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir420-git&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishir420-git&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir420-git&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shishir420-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌐 Connect & Follow My Journey
+
+<div align="center">
+  
+### 📱 Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishir-srivastav/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmatic.ly)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://shishirslearningjourney.hashnode.dev/)
+
+### 📧 Let's Collaborate
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishir.workemail@gmail.com)
+
+</div>
+
+---
+
+## 📚 Content & Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/youtube-play.png" alt="YouTube"/>
+        <br><strong>YouTube Channel</strong>
+        <br>Learn AI with Python through hands-on tutorials
+        <br><a href="https://www.youtube.com/channel/UCCZiCzPtg9pmDwChJ4ROIpA">Watch & Learn</a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="Instagram"/>
+        <br><strong>Instagram</strong>
+        <br>Quick bytes of programming knowledge
+        <br><a href="https://www.instagram.com/programmatic.ly">@programmatic.ly</a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/blog.png" alt="Blog"/>
+        <br><strong>Technical Blog</strong>
+        <br>In-depth articles on development & AI
+        <br><a href="https://shishirslearningjourney.hashnode.dev/">Read Articles</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[🤖 Generative AI] --> B[🐍 Python Development]
+    B --> C[☁️ Cloud Solutions]
+    C --> D[📚 Knowledge Sharing]
+    D --> A
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+```
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+  <img src="https://readme-quotes-api.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Redressed" alt="Philosophy Quote"/>
+</div>
+
+> **"If it's structured, it can be automated"** - This drives my approach to solving complex problems through elegant, scalable solutions.
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+SQL          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
+Docker       2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    8.4%
+YAML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    4.8%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
+  
+  ### 🚀 Ready to build something amazing together?
+  
+  <img src="https://komarev.com/ghpvc/?username=shishir420-git&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  
+  **⭐ Star my repositories if you find them helpful!**
+  
+</div>
