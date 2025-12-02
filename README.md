@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Shishir+Srivastav;Senior+Python+Developer+%7C+with+5+Years;AI+Enthusiast+&+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Shishir+Srivastav;Senior+Python+Developer+%7C+with+5+Years;AI+Integrator+&+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
 </div>
 
 <!-- Professional Banner -->
