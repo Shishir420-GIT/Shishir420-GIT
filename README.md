@@ -31,7 +31,7 @@
 class ShishirSrivastav:
     def __init__(self):
         self.role = "Senior Python Developer"
-        self.experience = "5+ years"
+        self.experience = "6+ years"
         self.philosophy = "If it's structured, it can be automated"
         self.passion = ["Generative AI", "Clean Code", "Problem Solving", "Knowledge Sharing"]
         self.current_focus = "Building AI-powered solutions"
